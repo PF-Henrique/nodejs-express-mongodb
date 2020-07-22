@@ -1,13 +1,13 @@
 ### Tutorial https://bezkoder.com/node-express-mongodb-crud-rest-api/
 
-#  Node.js Express e MongoDB: APIs de resto CRUD
+# Node.js Express & MongoDB: CRUD Rest APIs
 
-##  Configuração do projeto
-`` ``
-instalação npm
-`` ``
+## Project setup
+```
+npm install
+```
 
-###  Executar
-`` ``
-nó server.js
-`` ``
+### Run
+```
+node server.js
+```
